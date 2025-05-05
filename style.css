@@ -9,3 +9,22 @@ body{
     font-size: 16px; /*definir tamanho da fonte*/
     font-family: 'Montserrat'; 
 }
+
+/*Estilo do Cabeçalho*/
+
+header{
+    background-color: #FFFFFF; /*Fundo branco para o cabeçalho*/
+}
+section{
+padding-bottom: 5rem;
+}
+.nav.link{
+    color: #cb6d43;
+    font-weight: 600;
+}
+.inicio-fundo{
+    background-image: url("img/img/4965007.jpg");
+    background-size: cover;
+    background-position: right;
+    
+}
