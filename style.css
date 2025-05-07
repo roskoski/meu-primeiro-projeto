@@ -35,7 +35,19 @@ padding-bottom: 5rem;
 /*posicionamento para a imagem à direita*/
 
 .img-inicio{
-    
+    position: absolute;
+    right: 8;
+    top: 18rem;
+    width: 45rem;
+    height: auto;
 }
+.esquerda-comteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+.botao-inicio{
+    
 }
 
