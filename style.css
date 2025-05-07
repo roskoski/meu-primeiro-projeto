@@ -26,5 +26,16 @@ padding-bottom: 5rem;
     background-image: url("img/img/4965007.jpg");
     background-size: cover;
     background-position: right;
+    border-radius: 80px;
+    width:100% ;
+    height: 606px ;
+    padding:40px ;
+    margin: 0 auto;
+}
+/*posicionamento para a imagem à direita*/
+
+.img-inicio{
     
 }
+}
+
