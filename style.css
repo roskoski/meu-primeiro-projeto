@@ -67,4 +67,45 @@ padding-bottom: 5rem;
     margin-bottom: 3rem;
     background: url('img/img/flor.png') top right no-repeat,
     url('img/img/flor-esquerda.png') bottom left no-repeat;
+    background-size: 180px 180px;
+    /*ajuste do tamanho*/   
 }
+#tropicalia.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+h2{
+    font-family: 'lemon', serif;
+    font-size: 2.5em;
+    font-style: normal;
+    color: var(--laranja-claro);
+}
+
+#galeria{
+    background-color: #faf4f4;
+}
+.fundo-galeria{
+    background: url(img/img/flor-bottom-direita.png)bottom right no-repeat;
+    background-size: 180px 180px;
+}
+
+#contato {
+
+ background-image: url('img/img/4965007.jpg');
+    background-size: cover;
+    padding: 4rem 0;
+    /*espaçamento*/
+}
+.formulario{
+    background-color: #FFFFFF;
+    padding: 2rem;
+    /*espaçamento interno*/
+    border-radius: 10px;
+    /*Borda arredondada*/
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+}
+   
