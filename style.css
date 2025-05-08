@@ -106,6 +106,15 @@ h2{
     /*espaçamento interno*/
     border-radius: 10px;
     /*Borda arredondada*/
-    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /*Sombra suave para destacar o formulario*/
+    font-weight: bold;
 }
-   
+.formulario-buttom{
+    background-color: #cb6d43;
+    border: none;
+    font-weight: bold;
+}
+.form-control{
+    background-color: #F1EDEF;
+}
